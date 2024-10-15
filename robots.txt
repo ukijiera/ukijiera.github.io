@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukijiera.github.io/sitemap/sitemap_index.txt.gz
